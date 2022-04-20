@@ -1,0 +1,7 @@
+C:\Users\MT-PC\source\repos\proje  yenı deneme\proje  yenı deneme\bin\Debug\proje  yenı deneme.exe.config
+C:\Users\MT-PC\source\repos\proje  yenı deneme\proje  yenı deneme\bin\Debug\proje  yenı deneme.exe
+C:\Users\MT-PC\source\repos\proje  yenı deneme\proje  yenı deneme\bin\Debug\proje  yenı deneme.pdb
+C:\Users\MT-PC\source\repos\proje  yenı deneme\proje  yenı deneme\obj\Debug\proje  yenı deneme.csproj.CoreCompileInputs.cache
+C:\Users\MT-PC\source\repos\proje  yenı deneme\proje  yenı deneme\obj\Debug\proje  yenı deneme.exe
+C:\Users\MT-PC\source\repos\proje  yenı deneme\proje  yenı deneme\obj\Debug\proje  yenı deneme.pdb
+C:\Users\MT-PC\source\repos\proje  yenı deneme\proje  yenı deneme\obj\Debug\proje  yenı deneme.csprojResolveAssemblyReference.cache
